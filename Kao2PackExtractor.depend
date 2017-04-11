@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1474982073 source:c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\sciezki\sciezki.cpp
+	"sciezki.hpp"
+
+1474982190 c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\sciezki\sciezki.hpp
+	"../biblioteki/biblioteki.hpp"
+
+1475864828 c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\biblioteki\biblioteki.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<direct.h>
+
+1491942977 source:c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\main\extractor.cpp
+	"../biblioteki/biblioteki.hpp"
+	"../sciezki/sciezki.hpp"
+
+1475864744 source:c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\plik\plik.cpp
+	"plik.hpp"
+	"../biblioteki/biblioteki.hpp"
+
+1476022633 c:\users\piotrek\desktop\piotrek\kao2packextractor\source\moduly\plik\plik.hpp
+	"../biblioteki/biblioteki.hpp"
+
