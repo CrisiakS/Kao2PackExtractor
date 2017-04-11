@@ -8,10 +8,7 @@
   W PRZYSZLOSCI SPAKOWAC WSZYSTKO SPOWROTEM JAK BYLO
  -USUWANIE OKOLO 25 OSTATNICH NULLI I SLOWKA ITEM Z KAZDEGO PLIKU
 
-  while(YoutubeVideo.isPlaying("Wgurzyłam sie [REUPLOAD]"))
-	{
-		myself->cancer.inject(body);
-	}
+
 
 **/
 
